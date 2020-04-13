@@ -1,0 +1,23 @@
+a{
+  text-decoration: none;
+  color: white;
+  background-color: #F8B93E;
+  font-size: 2rem;
+  padding: 15px;
+  display: inline-block;
+  margin: 100px 50px 100px 200px;
+  border-radius: 15px;
+  border-bottom: 10px solid #C79227;
+  transition:all 0.1s;
+}
+a:active{
+  text-decoration: none;
+  color: white;
+  background-color: #F8B93E;
+  font-size: 2rem;
+  padding: 15px;
+  display: inline-block;
+  margin: 108px 30px 80px 200px;
+  border-radius: 15px;
+  border-bottom: 2px solid #C79227;
+}
